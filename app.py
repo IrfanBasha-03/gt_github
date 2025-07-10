@@ -1,0 +1,10 @@
+print("Hello World")
+print("This is a test file for git training")
+print("This file is used to demonstrate git operations")    
+print("Make sure to commit your changes regularly")
+print("This is the end of the file")    
+
+print("This is a new line added to the file")
+print("This line is added to test git operations")
+print("This is another line added to the file")
+print("This is a new line added to the file")               
